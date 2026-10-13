@@ -1,6 +1,6 @@
 Privacy Policy - SOSCallSan
 Last updated: [Insert Date, e.g., May 24, 2024]
-[Your Name or Company/Developer Name] ("we", "our", or "us") built the SOSCallSan app as a free [or paid] app. This SERVICE is provided by [Your Name/Company] at no cost and is intended for use as is.
+Tradevsan (Developed by Fabricio Vieira sanfelice) ("we", "our", or "us") built the SOSCallSan app as a free [or paid] app. This SERVICE is provided by Tradevsan at no cost and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 1. Information Collection and Use
@@ -34,7 +34,7 @@ At Your Request: When you intentionally trigger an SOS and transmit your locatio
 •
 Legal Requirements: If required by law, court order, or valid government process.
 •
-Protection of Rights: To protect the rights, property, or safety of [Your Name/Company], our users, or the public.
+Protection of Rights: To protect the rights, property, or safety of Tradevsan, our users, or the public.
 5. Data Security
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 6. Children's Privacy
@@ -44,6 +44,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 •
-Email: [suportetradevsan@gmail.com]
+Email: suportetradevsan@gmail.com
 •
-GitHub Repository: [https://fabriciosanfelice-byte.github.io/soscallsan-privacy/]
+GitHub Pages: https://fabriciosanfelice-byte.github.io/soscallsan-privacy/
