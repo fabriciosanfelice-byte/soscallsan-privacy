@@ -56,5 +56,5 @@ Podemos atualizar esta Política de Privacidade periodicamente para refletir mel
 
 Se você tiver dúvidas, sugestões ou solicitações sobre esta Política de Privacidade, entre em contato com o desenvolvedor responsável:
 
-* **Desenvolvedor / Desenvolvido por:** TradeVSan / Fabricio Sanfelice
+* **Desenvolvedor / Desenvolvido por:** Fabricio Vieira Sanfelice
 * **E-mail de Suporte:** suportetradevsan@gmail.com
