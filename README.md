@@ -1,79 +1,60 @@
-# Privacy Policy - SOSCallSan
+# Política de Privacidade — SOSCallSan
 
-**Last updated:** October 13, 2026
+**Última atualização:** 22 de outubro de 2026
 
-**Tradevsan (Developed by Fabricio Vieira sanfelice)** ("we", "our", or "us") built the **SOSCallSan** app as a free app. This SERVICE is provided by Tradevsan at no cost and is intended for use as is.
-
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+O **SOSCallSan** tem como compromisso respeitar e proteger a privacidade dos seus usuários. Esta Política de Privacidade explica de forma clara como as informações são tratadas ao utilizar nosso aplicativo.
 
 ---
 
-## 1. Information Collection and Use
+## 1. Coleta e Uso de Dados
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to:
+### a) Relatórios Técnicos de Erros e Estabilidade (Firebase Crashlytics)
+Para garantir que o aplicativo funcione sem travamentos e possamos corrigir falhas rapidamente, o SOSCallSan utiliza o serviço **Firebase Crashlytics** (fornecido pela Google LLC).
+* **Quais dados são coletados:** Informações exclusivamente técnicas sobre falhas do sistema, incluindo relatórios de erro (*stack traces*), modelo do dispositivo, versão do sistema operacional Android, versão do aplicativo e dados de sessão no momento do erro.
+* **Finalidade:** Diagnóstico técnico, manutenção da estabilidade e correção de bugs.
+* **Privacidade:** Esses relatórios **não contêm dados pessoais identificáveis**, nomes, telefones, mensagens digitadas, contatos salvos ou localização do usuário.
 
-* **Location Data:** The **SOSCallSan** app collects precise location data (foreground and/or background when applicable) to provide core emergency features, such as sending your current location in SOS alerts to your designated emergency contacts.
-* **Emergency Contacts:** The app may access or store phone numbers and contacts chosen by you to quickly dispatch emergency calls and messages.
-* **Usage and Diagnostic Data:** Information on how the app is accessed and used, crash logs, and performance metrics to ensure system stability.
+### b) Dados do Usuário e Contatos Pessoais
+* **Armazenamento Local:** Todos os dados de contatos de emergência cadastrados por você (nomes, telefones e notas) ficam salvos **exclusivamente na memória interna do seu próprio dispositivo**.
+* **Sem Servidores Próprios:** Não enviamos, armazenamos nem compartilhamos seus contatos pessoais com nenhum servidor externo ou banco de dados próprio.
 
----
-
-## 2. How We Use Your Information
-
-We use the collected information for the following purposes:
-
-* **To Provide and Maintain the Service:** Execute core emergency alert and SOS call functionalities.
-* **Emergency Location Sharing:** Allow your location to be shared strictly with the contacts or emergency services configured by you at the time of an emergency trigger.
-* **App Improvement:** Analyze usage to fix bugs, optimize performance, and develop new features.
-* **Legal Compliance:** Meet Google Play Store obligations and applicable legal regulations.
+### c) Permissão de Localização (GPS / Rede)
+* **Uso Opcional e Local:** O aplicativo pode solicitar acesso à sua localização aproximada ou precisa **apenas** para identificar o país em que você se encontra e sugerir os números de emergência locais adequados.
+* **Sem Rastreamento:** A sua localização é processada diretamente no dispositivo e **não é rastreada, armazenada em histórico nem compartilhada** com terceiros.
 
 ---
 
-## 3. Device Permissions Requested
+## 2. Compartilhamento de Dados com Terceiros
 
-The **SOSCallSan** app requests specific device permissions strictly necessary for its operation:
+Não vendemos, alugamos nem compartilhamos dados pessoais com terceiros. 
 
-* **Location (`ACCESS_FINE_LOCATION` and `ACCESS_COARSE_LOCATION`):** Essential to determine your whereabouts during an emergency situation and transmit geographical coordinates.
-
-You can manage or revoke these permissions at any time through your Android device settings. However, please note that disabling essential permissions (such as location) may prevent SOS features from functioning properly.
+Os únicos dados técnicos transmitidos são os relatórios de falhas não identificáveis processados pelo **Firebase Crashlytics (Google LLC)**, estritamente para fins de diagnóstico e melhoria da estabilidade do aplicativo, conforme as políticas de segurança da Google.
 
 ---
 
-## 4. Information Sharing and Disclosure
+## 3. Segurança dos Dados
 
-We **do not** sell, rent, or trade your personal information to third parties. Your location data and emergency contacts are used exclusively for your personal safety and emergency purposes.
-
-We may disclose information only under the following limited circumstances:
-
-* **At Your Request:** When you intentionally trigger an SOS and transmit your location/data to your registered contacts.
-* **Legal Requirements:** If required by law, court order, or valid government process.
-* **Protection of Rights:** To protect the rights, property, or safety of Tradevsan, our users, or the public.
+Toda a comunicação de dados de diagnóstico técnico é realizada por conexões criptografadas e seguras (**HTTPS/TLS**). Os dados mantidos no seu dispositivo seguem os padrões de proteção nativos do sistema operacional Android.
 
 ---
 
-## 5. Data Security
+## 4. Direitos do Usuário e Exclusão de Dados
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
----
-
-## 6. Children's Privacy
-
-The **SOSCallSan** app does not knowingly address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us.
+Como seus contatos e preferências são armazenados localmente no seu dispositivo:
+* Você pode alterar, editar ou excluir seus contatos salvos a qualquer momento diretamente pela interface do aplicativo.
+* Ao desinstalar o aplicativo, todos os dados armazenados localmente serão apagados do seu dispositivo.
 
 ---
 
-## 7. Changes to This Privacy Policy
+## 5. Alterações nesta Política de Privacidade
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
+Podemos atualizar esta Política de Privacidade periodicamente para refletir melhorias no aplicativo ou mudanças regulatórias. Recomendamos a consulta desta página regularmente.
 
 ---
 
-## 8. Contact Us
+## 6. Contato e Responsável pelo Aplicativo
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+Se você tiver dúvidas, sugestões ou solicitações sobre esta Política de Privacidade, entre em contato com o desenvolvedor responsável:
 
-* **Email:** suportetradevsan@gmail.com
-* **Website:** [https://fabriciosanfelice-byte.github.io/soscallsan-privacy/](https://fabriciosanfelice-byte.github.io/soscallsan-privacy/)
+* **Desenvolvedor / Desenvolvido por:** TradeVSan / Fabricio Sanfelice
+* **E-mail de Suporte:** suportetradevsan@gmail.com
